@@ -13,13 +13,13 @@
         <sys_class_name>ua_table_licensing_config</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-07-28 09:45:48</sys_created_on>
-        <sys_id>246cae064f810300fad334a18110c73f</sys_id>
+        <sys_id>daf20342dbc10300daebddd0cf96197b</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_123998_marketing_marketing_event</sys_name>
         <sys_package display_value="Marketing Event App" source="x_123998_marketing">b44dadac0f10030010d985bce1050ef2</sys_package>
         <sys_policy/>
         <sys_scope display_value="Marketing Event App">b44dadac0f10030010d985bce1050ef2</sys_scope>
-        <sys_update_name>ua_table_licensing_config_246cae064f810300fad334a18110c73f</sys_update_name>
+        <sys_update_name>ua_table_licensing_config_daf20342dbc10300daebddd0cf96197b</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2017-07-28 09:45:48</sys_updated_on>
     </ua_table_licensing_config>

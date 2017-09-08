@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="Equipment Request" max_length="40" name="x_123998_marketing_equipment_request" type="collection">
+        <element label="Cost" max_length="20" name="cost" type="currency"/>
+        <element label="Marketing Event" max_length="32" name="marketing_event" reference="x_123998_marketing_marketing_event" type="reference"/>
+        <element label="NeededFrom" max_length="40" name="neededfrom" type="glide_date"/>
+        <element label="NeededUntil" max_length="40" name="neededuntil" type="glide_date"/>
+        <element label="Quantity" max_length="40" name="quantity" type="integer"/>
+        <element label="Total Cost" max_length="20" name="total_cost" read_only="true" type="currency"/>
+        <element label="Type" max_length="40" name="type" type="string"/>
+    </element>
+</database>

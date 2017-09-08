@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="sys_import_set_row" label="Equipment_Req_import" max_length="40" name="x_123998_marketing_eq" type="collection">
+        <element attributes="import_attribute_name=Cost" label="Cost" max_length="40" name="u_cost" type="integer"/>
+        <element attributes="import_attribute_name=Marketing Event,edge_encryption_enabled=true" label="Marketing Event" max_length="40" name="u_marketing_event" type="string"/>
+        <element attributes="import_attribute_name=Needed From,edge_encryption_enabled=true" label="Needed From" max_length="40" name="u_needed_from" type="string"/>
+        <element attributes="import_attribute_name=Needed Untill,edge_encryption_enabled=true" label="Needed Untill" max_length="40" name="u_needed_untill" type="string"/>
+        <element attributes="import_attribute_name=Quantity" label="Quantity" max_length="40" name="u_quantity" type="integer"/>
+        <element attributes="import_attribute_name=Type,edge_encryption_enabled=true" label="Type" max_length="40" name="u_type" type="string"/>
+    </element>
+</database>

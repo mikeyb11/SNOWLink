@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>catalog_marketing_event_catalog</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-09-08 09:51:06</sys_created_on>
+        <sys_id>04b106cadb010300daebddd0cf96194d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Marketing Event Catalog View</sys_name>
+        <sys_package display_value="Marketing Event App" source="x_123998_marketing">b44dadac0f10030010d985bce1050ef2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Marketing Event App">b44dadac0f10030010d985bce1050ef2</sys_scope>
+        <sys_update_name>sys_ui_view_04b106cadb010300daebddd0cf96194d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-09-08 09:51:06</sys_updated_on>
+        <title>Marketing Event Catalog View</title>
+        <user/>
+    </sys_ui_view>
+</record_update>

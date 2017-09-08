@@ -52,7 +52,7 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-07-28 09:45:47</sys_created_on>
-        <sys_id>51efe906db010300daebddd0cf96190a</sys_id>
+        <sys_id>37e07d8a4f010300fad334a18110c797</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_123998_marketing_marketing_event</sys_name>
         <sys_package display_value="Marketing Event App" source="x_123998_marketing">b44dadac0f10030010d985bce1050ef2</sys_package>
@@ -60,7 +60,7 @@
         <sys_scope display_value="Marketing Event App">b44dadac0f10030010d985bce1050ef2</sys_scope>
         <sys_update_name>sys_dictionary_x_123998_marketing_marketing_event_NULL</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2017-09-08 08:33:30</sys_updated_on>
+        <sys_updated_on>2017-09-08 08:38:00</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

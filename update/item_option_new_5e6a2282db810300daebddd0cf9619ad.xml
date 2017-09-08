@@ -37,7 +37,7 @@
         <map_to_field>false</map_to_field>
         <mask_use_confirmation>false</mask_use_confirmation>
         <mask_use_encryption>false</mask_use_encryption>
-        <name>formatter</name>
+        <name>u_containerSplit</name>
         <order>150</order>
         <price_if_checked>0</price_if_checked>
         <pricing_implications>false</pricing_implications>
@@ -60,14 +60,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-09-08 12:49:01</sys_created_on>
         <sys_id>5e6a2282db810300daebddd0cf9619ad</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>formatter</sys_name>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>u_containerSplit</sys_name>
         <sys_package display_value="Marketing Event App" source="x_123998_marketing">b44dadac0f10030010d985bce1050ef2</sys_package>
         <sys_policy/>
         <sys_scope display_value="Marketing Event App">b44dadac0f10030010d985bce1050ef2</sys_scope>
         <sys_update_name>item_option_new_5e6a2282db810300daebddd0cf9619ad</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-09-08 12:49:01</sys_updated_on>
+        <sys_updated_on>2017-09-08 13:13:45</sys_updated_on>
         <table/>
         <tooltip/>
         <type>24</type>

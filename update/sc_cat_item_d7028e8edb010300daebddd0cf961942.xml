@@ -64,7 +64,7 @@
         <visible_bundle>true</visible_bundle>
         <visible_guide>true</visible_guide>
         <visible_standalone>true</visible_standalone>
-        <workflow display_value="MarketingEvent_CatItem">53424302dbc10300daebddd0cf9619a8</workflow>
+        <workflow display_value="">53424302dbc10300daebddd0cf9619a8</workflow>
     </sc_cat_item>
     <sys_translated_text action="delete_multiple" query="documentkey=d7028e8edb010300daebddd0cf961942"/>
     <fx_price action="delete_multiple" query="id=d7028e8edb010300daebddd0cf961942"/>

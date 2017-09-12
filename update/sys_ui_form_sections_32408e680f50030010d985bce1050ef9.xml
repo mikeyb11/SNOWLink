@@ -25,9 +25,23 @@
             <sys_mod_count>0</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="x_123998_marketing_marketing_event" name="x_123998_marketing_marketing_event" sys_domain="global" view="Default view">32408e680f50030010d985bce1050ef9</sys_ui_form>
-            <sys_ui_section caption="New Section" display_value="New Section" name="x_123998_marketing_marketing_event" sys_domain="global" view="Default view">fe408e680f50030010d985bce1050ef7</sys_ui_section>
+            <sys_ui_section caption="Attendees" display_value="Attendees" name="x_123998_marketing_marketing_event" sys_domain="global" view="Default view">fe408e680f50030010d985bce1050ef7</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2017-07-28 11:07:01</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-09-12 08:03:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>536f465b4f010300fad334a18110c7a4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_123998_marketing_marketing_event" name="x_123998_marketing_marketing_event" sys_domain="global" view="Default view">32408e680f50030010d985bce1050ef9</sys_ui_form>
+            <sys_ui_section caption="Expenses " display_value="Expenses " name="x_123998_marketing_marketing_event" sys_domain="global" view="Default view">df6f465b4f010300fad334a18110c724</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-09-12 08:03:32</sys_updated_on>
         </sys_ui_form_section>
         <sys_ui_form action="INSERT_OR_UPDATE">
             <name>x_123998_marketing_marketing_event</name>

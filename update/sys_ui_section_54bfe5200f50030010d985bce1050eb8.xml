@@ -5,13 +5,13 @@
             <element>name</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-28 11:07:01</sys_created_on>
-            <sys_id>be40ce680f50030010d985bce1050e11</sys_id>
+            <sys_created_on>2017-09-12 08:04:57</sys_created_on>
+            <sys_id>14cf4a5b4f010300fad334a18110c799</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_123998_marketing_marketing_event" sys_domain="global" view="Default view">54bfe5200f50030010d985bce1050eb8</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-28 11:07:01</sys_updated_on>
+            <sys_updated_on>2017-09-12 08:04:57</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -19,13 +19,13 @@
             <element>city</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-28 11:07:01</sys_created_on>
-            <sys_id>3240ce680f50030010d985bce1050e12</sys_id>
+            <sys_created_on>2017-09-12 08:04:57</sys_created_on>
+            <sys_id>94cf4a5b4f010300fad334a18110c799</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_123998_marketing_marketing_event" sys_domain="global" view="Default view">54bfe5200f50030010d985bce1050eb8</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-28 11:07:01</sys_updated_on>
+            <sys_updated_on>2017-09-12 08:04:57</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -33,13 +33,13 @@
             <element>sponser</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-28 11:07:01</sys_created_on>
-            <sys_id>b240ce680f50030010d985bce1050e12</sys_id>
+            <sys_created_on>2017-09-12 08:04:57</sys_created_on>
+            <sys_id>18cf4a5b4f010300fad334a18110c799</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_123998_marketing_marketing_event" sys_domain="global" view="Default view">54bfe5200f50030010d985bce1050eb8</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-28 11:07:01</sys_updated_on>
+            <sys_updated_on>2017-09-12 08:04:57</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -47,55 +47,41 @@
             <element>.split</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-28 11:07:01</sys_created_on>
-            <sys_id>3640ce680f50030010d985bce1050e12</sys_id>
+            <sys_created_on>2017-09-12 08:04:57</sys_created_on>
+            <sys_id>98cf4a5b4f010300fad334a18110c799</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_123998_marketing_marketing_event" sys_domain="global" view="Default view">54bfe5200f50030010d985bce1050eb8</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-28 11:07:01</sys_updated_on>
+            <sys_updated_on>2017-09-12 08:04:57</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>budget</element>
+            <element>startdate</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-28 11:07:01</sys_created_on>
-            <sys_id>b640ce680f50030010d985bce1050e12</sys_id>
+            <sys_created_on>2017-09-12 08:04:57</sys_created_on>
+            <sys_id>1ccf4a5b4f010300fad334a18110c799</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_123998_marketing_marketing_event" sys_domain="global" view="Default view">54bfe5200f50030010d985bce1050eb8</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-28 11:07:01</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>startdate</element>
-            <position>5</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-28 11:07:01</sys_created_on>
-            <sys_id>3a40ce680f50030010d985bce1050e12</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_123998_marketing_marketing_event" sys_domain="global" view="Default view">54bfe5200f50030010d985bce1050eb8</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-28 11:07:01</sys_updated_on>
+            <sys_updated_on>2017-09-12 08:04:57</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>enddate</element>
-            <position>6</position>
+            <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-28 11:07:01</sys_created_on>
-            <sys_id>ba40ce680f50030010d985bce1050e12</sys_id>
+            <sys_created_on>2017-09-12 08:04:57</sys_created_on>
+            <sys_id>9ccf4a5b4f010300fad334a18110c799</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_123998_marketing_marketing_event" sys_domain="global" view="Default view">54bfe5200f50030010d985bce1050eb8</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-28 11:07:01</sys_updated_on>
+            <sys_updated_on>2017-09-12 08:04:57</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

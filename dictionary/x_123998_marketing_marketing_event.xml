@@ -12,6 +12,7 @@
                 <element label="Sydney" sequence="0" value="Sydney"/>
             </choice>
         </element>
+        <element label="Current Cost" max_length="40" name="current_cost" type="integer"/>
         <element label="EndDate" max_length="40" name="enddate" type="glide_date"/>
         <element display="true" label="Name" max_length="40" name="name" type="string"/>
         <element label="Number of attendees expected" max_length="40" name="number_of_attendees_expected" type="integer"/>

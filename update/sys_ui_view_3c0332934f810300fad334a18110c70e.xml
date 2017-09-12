@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>marketingevent_themeview</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-09-12 10:39:00</sys_created_on>
+        <sys_id>3c0332934f810300fad334a18110c70e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>MarketingEvent_ThemeView</sys_name>
+        <sys_package display_value="Marketing Event App" source="x_123998_marketing">b44dadac0f10030010d985bce1050ef2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Marketing Event App">b44dadac0f10030010d985bce1050ef2</sys_scope>
+        <sys_update_name>sys_ui_view_3c0332934f810300fad334a18110c70e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-09-12 10:39:00</sys_updated_on>
+        <title>MarketingEvent_ThemeView</title>
+        <user/>
+    </sys_ui_view>
+</record_update>

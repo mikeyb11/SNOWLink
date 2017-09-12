@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="sys_import_set_row" label="Marketing_Event_Group_import" max_length="40" name="x_123998_marketing_marketing_event_group_import" type="collection">
+        <element attributes="import_attribute_name=Description,edge_encryption_enabled=true" label="Description" max_length="40" name="u_description" type="string"/>
+        <element attributes="import_attribute_name=Manager,edge_encryption_enabled=true" label="Manager" max_length="40" name="u_manager" type="string"/>
+        <element attributes="import_attribute_name=Name,edge_encryption_enabled=true" label="Name" max_length="40" name="u_name" type="string"/>
+    </element>
+</database>

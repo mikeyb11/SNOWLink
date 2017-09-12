@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="" label="Marketing_Event_Group_import" language="en" table="x_123998_marketing_marketing_event_group_import">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Marketing_Event_Group_import</label>
+            <language>en</language>
+            <name>x_123998_marketing_marketing_event_group_import</name>
+            <plural>Marketing_Event_Group_imports</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-09-12 09:05:37</sys_created_on>
+            <sys_id>78ad52534f410300fad334a18110c7a5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Marketing_Event_Group_import</sys_name>
+            <sys_package display_value="Marketing Event App" source="x_123998_marketing">b44dadac0f10030010d985bce1050ef2</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Marketing Event App">b44dadac0f10030010d985bce1050ef2</sys_scope>
+            <sys_update_name>sys_documentation_x_123998_marketing_marketing_event_group_import__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-09-12 09:05:37</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_ui_script">
+    <sys_ui_script action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description>Client-side logic for Angular App.&#13;
+&#13;
+x_123998_marketing.angular_app_client_lo</description>
+        <global>false</global>
+        <name>x_123998_marketing.angular_app_client_lo</name>
+        <script><![CDATA[angular.module('angularapp', []);
+angular.module('angularapp').controller('AngularAppCtrl', function($scope){
+	$scope.myVar = '';
+	$scope.i = 0;
+
+	$scope.clearTxt = function(){
+		$scope.myVar = '';
+		$scope.i++;
+		alert("The myVar value was cleared " + $scope.i + " times by " + g_user.userName + ".");
+	};
+});]]></script>
+        <script_name>angular_app_client_logic</script_name>
+        <sys_class_name>sys_ui_script</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-09-12 14:00:55</sys_created_on>
+        <sys_id>9d4f531b4fc10300fad334a18110c71b</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>x_123998_marketing.angular_app_client_lo</sys_name>
+        <sys_package display_value="Marketing Event App" source="x_123998_marketing">b44dadac0f10030010d985bce1050ef2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Marketing Event App">b44dadac0f10030010d985bce1050ef2</sys_scope>
+        <sys_update_name>sys_ui_script_9d4f531b4fc10300fad334a18110c71b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-09-12 14:19:22</sys_updated_on>
+        <use_scoped_format>false</use_scoped_format>
+    </sys_ui_script>
+</record_update>

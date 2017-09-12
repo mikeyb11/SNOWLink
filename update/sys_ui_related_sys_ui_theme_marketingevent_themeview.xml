@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_related sys_domain="global" table="sys_ui_theme" version="2" view="marketingevent_themeview">
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Theme - MarketingEvent_ThemeView" name="sys_ui_theme" related_list="NULL" sys_domain="global" view="3c0332934f810300fad334a18110c70e">dba3bad34f810300fad334a18110c7e5</list_id>
+            <order_by/>
+            <position>0</position>
+            <related_list/>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-09-12 10:41:55</sys_created_on>
+            <sys_id>93a3bad34f810300fad334a18110c7e6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-09-12 10:41:55</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list action="INSERT_OR_UPDATE">
+            <calculated_name>Theme - MarketingEvent_ThemeView</calculated_name>
+            <filter/>
+            <name>sys_ui_theme</name>
+            <order_by/>
+            <position/>
+            <related_list/>
+            <sys_class_name>sys_ui_related_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-09-12 10:41:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>dba3bad34f810300fad334a18110c7e5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Theme - MarketingEvent_ThemeView</sys_name>
+            <sys_package display_value="Marketing Event App" source="x_123998_marketing">b44dadac0f10030010d985bce1050ef2</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Marketing Event App">b44dadac0f10030010d985bce1050ef2</sys_scope>
+            <sys_update_name>sys_ui_related_sys_ui_theme_marketingevent_themeview</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-09-12 10:41:55</sys_updated_on>
+            <sys_user/>
+            <view display_value="MarketingEvent_ThemeView" name="marketingevent_themeview">3c0332934f810300fad334a18110c70e</view>
+            <view_name/>
+        </sys_ui_related_list>
+    </sys_ui_related>
+</record_update>

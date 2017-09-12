@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_form_sections form_id="28c7b6974f810300fad334a18110c7aa" sys_domain="global" table="x_123998_marketing_employees" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-09-12 10:59:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e4c7b6974f810300fad334a18110c7ad</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_123998_marketing_employees" name="x_123998_marketing_employees" sys_domain="global" view="Default view">28c7b6974f810300fad334a18110c7aa</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_123998_marketing_employees" sys_domain="global" view="Default view">88b6b2574f810300fad334a18110c7b6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-09-12 10:59:44</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-09-12 10:59:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e0c7b6974f810300fad334a18110c7ae</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_123998_marketing_employees" name="x_123998_marketing_employees" sys_domain="global" view="Default view">28c7b6974f810300fad334a18110c7aa</sys_ui_form>
+            <sys_ui_section caption="Contact Information" display_value="Contact Information" name="x_123998_marketing_employees" sys_domain="global" view="Default view">e8c7b6974f810300fad334a18110c7a9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-09-12 10:59:44</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_123998_marketing_employees</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-09-12 10:59:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>28c7b6974f810300fad334a18110c7aa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_123998_marketing_employees</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Marketing Event App" source="x_123998_marketing">b44dadac0f10030010d985bce1050ef2</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Marketing Event App">b44dadac0f10030010d985bce1050ef2</sys_scope>
+            <sys_update_name>sys_ui_form_sections_28c7b6974f810300fad334a18110c7aa</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-09-12 10:59:44</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

@@ -29,6 +29,20 @@
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2017-09-12 10:59:44</sys_updated_on>
         </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-09-15 08:22:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1ca0b9d84f190300fad334a18110c7d0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_123998_marketing_employees" name="x_123998_marketing_employees" sys_domain="global" view="Default view">28c7b6974f810300fad334a18110c7aa</sys_ui_form>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_123998_marketing_employees" sys_domain="global" view="Default view">18a039d84f190300fad334a18110c7dc</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-09-15 08:22:53</sys_updated_on>
+        </sys_ui_form_section>
         <sys_ui_form action="INSERT_OR_UPDATE">
             <name>x_123998_marketing_employees</name>
             <roles/>

@@ -1,6 +1,156 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update>
     <sys_ui_list parent="item_option_new_set" relationship="" sys_domain="global" table="item_option_new" version="2" view="">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>name</element>
+            <list_id display_value="item_option_new" element="NULL" name="item_option_new" parent="item_option_new_set" relationship="NULL" sys_domain="global" view="Default view">8aba56a6dbb10300595cd170cf961990</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-17 07:44:30</sys_created_on>
+            <sys_id>02ba56a6dbb10300595cd170cf961991</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-17 07:44:30</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>active</element>
+            <list_id display_value="item_option_new" element="NULL" name="item_option_new" parent="item_option_new_set" relationship="NULL" sys_domain="global" view="Default view">8aba56a6dbb10300595cd170cf961990</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-17 07:44:30</sys_created_on>
+            <sys_id>82ba56a6dbb10300595cd170cf961991</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-17 07:44:30</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>attributes</element>
+            <list_id display_value="item_option_new" element="NULL" name="item_option_new" parent="item_option_new_set" relationship="NULL" sys_domain="global" view="Default view">8aba56a6dbb10300595cd170cf961990</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-17 07:44:30</sys_created_on>
+            <sys_id>06ba56a6dbb10300595cd170cf961991</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-17 07:44:30</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>cat_item</element>
+            <list_id display_value="item_option_new" element="NULL" name="item_option_new" parent="item_option_new_set" relationship="NULL" sys_domain="global" view="Default view">8aba56a6dbb10300595cd170cf961990</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-17 07:44:30</sys_created_on>
+            <sys_id>86ba56a6dbb10300595cd170cf961991</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-17 07:44:30</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>category</element>
+            <list_id display_value="item_option_new" element="NULL" name="item_option_new" parent="item_option_new_set" relationship="NULL" sys_domain="global" view="Default view">8aba56a6dbb10300595cd170cf961990</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-17 07:44:30</sys_created_on>
+            <sys_id>0aba56a6dbb10300595cd170cf961991</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-17 07:44:30</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>choice_direction</element>
+            <list_id display_value="item_option_new" element="NULL" name="item_option_new" parent="item_option_new_set" relationship="NULL" sys_domain="global" view="Default view">8aba56a6dbb10300595cd170cf961990</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-17 07:44:30</sys_created_on>
+            <sys_id>8aba56a6dbb10300595cd170cf961991</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-17 07:44:30</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>choice_field</element>
+            <list_id display_value="item_option_new" element="NULL" name="item_option_new" parent="item_option_new_set" relationship="NULL" sys_domain="global" view="Default view">8aba56a6dbb10300595cd170cf961990</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-17 07:44:30</sys_created_on>
+            <sys_id>0eba56a6dbb10300595cd170cf961991</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-17 07:44:30</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>choice_table</element>
+            <list_id display_value="item_option_new" element="NULL" name="item_option_new" parent="item_option_new_set" relationship="NULL" sys_domain="global" view="Default view">8aba56a6dbb10300595cd170cf961990</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>7</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-17 07:44:30</sys_created_on>
+            <sys_id>8eba56a6dbb10300595cd170cf961991</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-17 07:44:30</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>create_roles</element>
+            <list_id display_value="item_option_new" element="NULL" name="item_option_new" parent="item_option_new_set" relationship="NULL" sys_domain="global" view="Default view">8aba56a6dbb10300595cd170cf961990</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>8</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-17 07:44:30</sys_created_on>
+            <sys_id>02ba56a6dbb10300595cd170cf961992</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-17 07:44:30</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>default_html_value</element>
+            <list_id display_value="item_option_new" element="NULL" name="item_option_new" parent="item_option_new_set" relationship="NULL" sys_domain="global" view="Default view">8aba56a6dbb10300595cd170cf961990</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>9</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-17 07:44:30</sys_created_on>
+            <sys_id>82ba56a6dbb10300595cd170cf961992</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-17 07:44:30</sys_updated_on>
+        </sys_ui_list_element>
         <sys_ui_list action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element/>
@@ -13,18 +163,18 @@
             <sum>false</sum>
             <sys_class_name>sys_ui_list</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-09-08 13:04:00</sys_created_on>
+            <sys_created_on>2017-10-17 08:00:10</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>02ddaec64f810300fad334a18110c7e2</sys_id>
+            <sys_id>6b4ed62adbb10300595cd170cf96190b</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_name>item_option_new</sys_name>
-            <sys_package display_value="Marketing Event App" source="x_123998_marketing">b44dadac0f10030010d985bce1050ef2</sys_package>
+            <sys_name/>
+            <sys_package/>
             <sys_policy/>
             <sys_scope display_value="Marketing Event App">b44dadac0f10030010d985bce1050ef2</sys_scope>
-            <sys_update_name>sys_ui_list_item_option_new_item_option_new_set_null</sys_update_name>
+            <sys_update_name/>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-09-08 13:04:00</sys_updated_on>
+            <sys_updated_on>2017-10-17 08:00:10</sys_updated_on>
             <sys_user display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</sys_user>
             <view display_value="Default view" name="NULL">Default view</view>
             <view_name/>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="question_choice">
+    <question_choice action="INSERT_OR_UPDATE">
+        <misc>0</misc>
+        <order>300</order>
+        <question display_value="Account type">e0bb966adb310300595cd170cf96191d</question>
+        <rec_misc>0</rec_misc>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-10-17 07:56:39</sys_created_on>
+        <sys_id>4f6d9ae6dbb10300595cd170cf9619a1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Contractor</sys_name>
+        <sys_package display_value="Marketing Event App" source="x_123998_marketing">b44dadac0f10030010d985bce1050ef2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Marketing Event App">b44dadac0f10030010d985bce1050ef2</sys_scope>
+        <sys_update_name>question_choice_4f6d9ae6dbb10300595cd170cf9619a1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-10-17 07:56:39</sys_updated_on>
+        <text>Contractor</text>
+        <value>u_atype_contractor</value>
+    </question_choice>
+    <fx_price action="delete_multiple" query="id=4f6d9ae6dbb10300595cd170cf9619a1"/>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>misc</field>
+        <id>4f6d9ae6dbb10300595cd170cf9619a1</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-10-17 07:56:39</sys_created_on>
+        <sys_id>bf7ddee6dbb10300595cd170cf961906</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-10-17 07:56:39</sys_updated_on>
+        <table>question_choice</table>
+        <type>calculated</type>
+    </fx_price>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>rec_misc</field>
+        <id>4f6d9ae6dbb10300595cd170cf9619a1</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-10-17 07:56:39</sys_created_on>
+        <sys_id>bf7d96e6dbb10300595cd170cf96196c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-10-17 07:56:39</sys_updated_on>
+        <table>question_choice</table>
+        <type>calculated</type>
+    </fx_price>
+</record_update>

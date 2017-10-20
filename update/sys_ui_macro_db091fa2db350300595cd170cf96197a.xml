@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_ui_macro">
+    <sys_ui_macro action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category>general</category>
+        <description>Populate the categories in the MA incident "category" field</description>
+        <media_type/>
+        <name>PopulateCategories</name>
+        <scoped_name>x_123998_marketing_PopulateCategories</scoped_name>
+        <sys_class_name>sys_ui_macro</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-10-17 12:17:59</sys_created_on>
+        <sys_id>db091fa2db350300595cd170cf96197a</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>PopulateCategories</sys_name>
+        <sys_package display_value="Marketing Event App" source="x_123998_marketing">b44dadac0f10030010d985bce1050ef2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Marketing Event App">b44dadac0f10030010d985bce1050ef2</sys_scope>
+        <sys_update_name>sys_ui_macro_db091fa2db350300595cd170cf96197a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-10-17 12:54:04</sys_updated_on>
+        <xml><![CDATA[<?xml version="1.0" encoding="utf-8" ?>
+<j:jelly trim="false" xmlns:j="jelly:core" xmlns:g="glide" xmlns:j2="null" xmlns:g2="null">
+	
+	<g:evaluate var="jvar_categories" object="true">
+		var categories = new GlideRecord('x_123998_marketing_marketevent_categories');
+		 //location.addQuery('country','USA'); //Give the query filter condition if any as per your requirement
+	  categories.query();
+	  categories;
+  </g:evaluate>
+ 
+  <select id="categories_level">
+  <option value="">-- None --</option>
+  <j:while test="${jvar_categories.next()}">
+  <option value="${jvar_categories.getValue('name')}">${jvar_categories.getValue('name')}</option>
+         </j:while>
+  </select>
+
+</j:jelly>]]></xml>
+    </sys_ui_macro>
+</record_update>

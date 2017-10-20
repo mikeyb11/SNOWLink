@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_123998_marketing.marketevent_categories_user</name>
+        <suffix>marketevent_categories_user</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-10-17 12:05:19</sys_created_on>
+        <sys_id>ae669f6edbb10300595cd170cf96191d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_123998_marketing.marketevent_categories_user</sys_name>
+        <sys_package display_value="Marketing Event App" source="x_123998_marketing">b44dadac0f10030010d985bce1050ef2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Marketing Event App">b44dadac0f10030010d985bce1050ef2</sys_scope>
+        <sys_update_name>sys_user_role_ae669f6edbb10300595cd170cf96191d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-10-17 12:05:19</sys_updated_on>
+    </sys_user_role>
+</record_update>

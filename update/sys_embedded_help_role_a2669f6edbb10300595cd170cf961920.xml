@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_123998_marketing.marketevent_categories_user" name="x_123998_marketing.marketevent_categories_user">ae669f6edbb10300595cd170cf96191d</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-10-17 12:05:19</sys_created_on>
+        <sys_id>a2669f6edbb10300595cd170cf961920</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ae669f6edbb10300595cd170cf96191d</sys_name>
+        <sys_package display_value="Marketing Event App" source="x_123998_marketing">b44dadac0f10030010d985bce1050ef2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Marketing Event App">b44dadac0f10030010d985bce1050ef2</sys_scope>
+        <sys_update_name>sys_embedded_help_role_a2669f6edbb10300595cd170cf961920</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-10-17 12:05:19</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

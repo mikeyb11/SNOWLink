@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="Marketing Event Incidents" max_length="40" name="x_123998_marketing_marketing_event_incidents" type="collection">
+        <element choice="1" label="Primary Category" max_length="40" name="primary_category" type="choice">
+            <choice/>
+        </element>
+    </element>
+</database>

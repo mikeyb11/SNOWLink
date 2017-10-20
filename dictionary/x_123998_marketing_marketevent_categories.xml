@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="MarketEvent Categories" max_length="40" name="x_123998_marketing_marketevent_categories" type="collection">
+        <element choice="3" default="Primary Cat" label="Category Level" mandatory="true" max_length="40" name="categories_level" type="choice">
+            <choice>
+                <element label="Primary Cat" sequence="0" value="Primary Cat"/>
+                <element label="Secondary Cat" sequence="1" value="Secondary Cat"/>
+                <element label="Third Cat" sequence="2" value="Third Cat"/>
+            </choice>
+        </element>
+        <element label="Name" max_length="40" name="name" type="string"/>
+    </element>
+</database>
